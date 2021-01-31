@@ -1,0 +1,4 @@
+variable "pwd" {
+  default = "ChangeMe"
+}
+
