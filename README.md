@@ -15,4 +15,6 @@ The complete list of configuration options for elastic beanstalk is available he
 
 Architecture
 ------------
+Here is a simple architecture based on the above. This is just for demonstration purposes, a production ready application that is scalable and highly available will have several more components.
 
+![Architecture diagram](https://github.com/prabhatranjan/terraform-aws-rails/blob/main/images/Simple%20Architecture.png)
